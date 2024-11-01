@@ -893,6 +893,7 @@
   * [Speed Of Sound](physics/speed_of_sound.py)
   * [Speeds Of Gas Molecules](physics/speeds_of_gas_molecules.py)
   * [Terminal Velocity](physics/terminal_velocity.py)
+  * [Vander Vaals Gas Law](physics/vander_vaals_gas_law.py)
 
 ## Project Euler
   * Problem 001
